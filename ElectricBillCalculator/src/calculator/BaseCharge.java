@@ -1,4 +1,4 @@
-package GauseLentzPA07;
+package calculator;
 
 public interface BaseCharge {
 	
